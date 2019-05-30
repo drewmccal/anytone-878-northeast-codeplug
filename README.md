@@ -1,6 +1,8 @@
 # Anytone D878UV codeplug for the Northeast United States
 
-KB1PJD 2018.12.03
+## Introduction
+
+KB1PJD 2019.05.29
 
 This repo will contain a codeplug and files that are useful for Hams traveling along the 
 Northeast Corridor of the United States. This codeplug should be useful for both the AT-D868UV and the AT-D878UV.
@@ -18,3 +20,29 @@ the talkgroup names between NJTRBO and NECDECN since there was quite a bit of ov
 appreciate it.
 
 73 de KB1PJD
+
+## Useful links
+
+### New England
+
+1. [NEDECN – New England TRBO](https://nedecn.org/)
+1. [WX1NH – Green Mountain Amateur Radio Society Claremont](http://wx1nh.us/)
+1. [CT ARES DMR](http://www.ctares.org/ares_dmr.php)
+1. [Maine DMR](http://maine-dmr.org/)
+
+### New York
+
+1. [NY METRO](http://k2hr.com/Metro%20DMR.html)
+1. [Bronx TRBO](http://www.n2nsa.net/)
+
+### Midatlantic
+
+1. [NY-NJ-PA TRBO](http://www.n2jti.net/)
+1. [Interstate Repeater System](http://wr3irs.com/)
+
+
+
+
+
+
+

@@ -5,61 +5,66 @@ No.,Radio ID,Name,Call Type,Call Alert
 4,8,REG N,Group Call,None
 5,9,LOCAL,Group Call,None
 6,13,WW English,Group Call,None
-7,91,BM-World-Wide,Private Call,None
-8,93,BM-North-America,Group Call,None
-9,95,TAC I 95,Group Call,None
-10,99,Simplex,Group Call,None
-11,113,UA113,Group Call,None
-12,123,UA123,Group Call,None
-13,133,DMR+ USA,Group Call,None
-14,302,CANADA,Group Call,None
-15,310,TAC310,Group Call,None
-16,311,TAC311,Group Call,None
-17,312,TAC312,Group Call,None
-18,314,TAC 314,Group Call,None
-19,316,TAC 316,Group Call,None
-20,317,TAC 317,Group Call,None
-21,444,NY METRO,Group Call,None
-22,759,SKYWARN,Group Call,None
-23,911,Emergency,Group Call,None
-24,913,BM-World-Wide-En,Group Call,None
-25,2350,BM UK,Group Call,None
-26,3022,Quebec,Group Call,None
-27,3029,New Brunswick,Group Call,None
-28,3100,BM-3100,Group Call,None
-29,3109,CT SW,Group Call,None
-30,3111,Washington DC,Group Call,None
-31,3123,ME SW,Group Call,None
-32,3124,MD SW,Group Call,None
-33,3125,MA  SW,Group Call,None
-34,3133,NH SW,Group Call,None
-35,3134,NJ-State,Group Call,None
-36,3136,NY SW,Group Call,None
-37,3139,OH SW,Group Call,None
-38,3142,PA-State,Group Call,None
-39,3144,RI SW,Group Call,None
-40,3150,VT SW,Group Call,None
-41,3151,VA SW,Group Call,None
-42,3172,N-EAST,Group Call,None
-43,3174,South East,Group Call,None
-44,3181,NE WIDE,Group Call,None
-45,4000,BM Reset,Group Call,None
-46,8801,NETAC1,Group Call,None
-47,8802,NETAC 2,Group Call,None
-48,8803,COOS NET,Group Call,None
-49,8804,CAPENET,Group Call,None
-50,8951,TAC 1,Group Call,None
-51,8952,TAC 2,Group Call,None
-52,8953,TAC 3,Group Call,None
-53,9990,ECHO,Group Call,None
-54,9998,Parrot,Group Call,None
-55,31121,BM-First-Coast,Group Call,None
-56,31124,South-East-FL,Group Call,None
-57,31360,BM Tri-State,Group Call,None
-58,31361,UPSTATE NY,Group Call,None
-59,31362,BRONX TRBO,Group Call,None
-60,31363,ADK,Group Call,None
-61,31660,BM Ocean county,Group Call,None
-62,39276,EWARN,Group Call,None
-63,310902,Call Area 2,Group Call,None
-64,313327,LARK,Group Call,None
+7,91,BM-World-Wide,Group Call,None
+8,92,BM Euro,Group Call,None
+9,93,BM-North-America,Group Call,None
+10,95,TAC I 95,Group Call,None
+11,99,Simplex,Group Call,None
+12,113,UA113,Group Call,None
+13,123,UA123,Group Call,None
+14,133,DMR+ USA,Group Call,None
+15,302,CANADA,Group Call,None
+16,310,TAC310,Group Call,None
+17,311,TAC311,Group Call,None
+18,312,TAC312,Group Call,None
+19,314,TAC 314,Group Call,None
+20,316,TAC 316,Group Call,None
+21,317,TAC 317,Group Call,None
+22,444,NY METRO,Group Call,None
+23,759,SKYWARN,Group Call,None
+24,911,Emergency,Group Call,None
+25,913,BM-World-Wide-En,Group Call,None
+26,2350,BM UK,Group Call,None
+27,3022,Quebec,Group Call,None
+28,3029,New Brunswick,Group Call,None
+29,3100,BM-3100,Group Call,None
+30,3109,CT SW,Group Call,None
+31,3111,Washington DC,Group Call,None
+32,3123,ME SW,Group Call,None
+33,3124,MD SW,Group Call,None
+34,3125,MA  SW,Group Call,None
+35,3133,NH SW,Group Call,None
+36,3134,NJ-State,Group Call,None
+37,3136,NY SW,Group Call,None
+38,3139,OH SW,Group Call,None
+39,3142,PA-State,Group Call,None
+40,3144,RI SW,Group Call,None
+41,3150,VT SW,Group Call,None
+42,3151,VA SW,Group Call,None
+43,3172,N-EAST,Group Call,None
+44,3174,South East,Group Call,None
+45,3181,NE WIDE,Group Call,None
+46,4000,BM Reset,Group Call,None
+47,4641,DMR+ New England,Group Call,None
+48,4642,DMR+ Northeast,Group Call,None
+49,8801,NETAC1,Group Call,None
+50,8802,NETAC 2,Group Call,None
+51,8803,COOS NET,Group Call,None
+52,8804,CAPENET,Group Call,None
+53,8951,TAC 1,Group Call,None
+54,8952,TAC 2,Group Call,None
+55,8953,TAC 3,Group Call,None
+56,9990,ECHO,Group Call,None
+57,9998,Parrot,Group Call,None
+58,31121,BM-First-Coast,Group Call,None
+59,31124,South-East-FL,Group Call,None
+60,31360,BM Tri-State,Group Call,None
+61,31361,UPSTATE NY,Group Call,None
+62,31362,BRONX TRBO,Group Call,None
+63,31363,ADK,Group Call,None
+64,31660,BM Ocean county,Group Call,None
+65,39276,EWARN,Group Call,None
+66,310902,Call Area 2,Group Call,None
+67,313323,GMARS 1,Group Call,None
+68,313324,GMARS 2,Group Call,None
+69,313327,LARK,Group Call,None
